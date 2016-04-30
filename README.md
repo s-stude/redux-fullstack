@@ -7,3 +7,9 @@ Full-stack Redux Tutorial
 3. run `npm i` inside the local copy
 4. run `npm run test` for unit tests
 5. enjoy
+
+## Stack
+- es6 via Babel
+- Redux
+- Immutable.js
+- Socket.io
