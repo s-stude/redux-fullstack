@@ -1,7 +1,7 @@
 {
-  "name": "voiting-server",
+  "name": "voting-server",
   "version": "1.0.0",
-  "description": "This is a voiting server",
+  "description": "This is a voting server",
   "main": "index.js",
   "babel": {
     "presets": [
